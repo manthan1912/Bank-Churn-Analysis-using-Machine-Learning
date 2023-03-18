@@ -29,3 +29,17 @@ The models implemented are:
 * KNN with k = 10
 * ANN with some parameters
 * ANN with tuned hyper-parameters
+
+
+## Installation
+Python 3.8+ is required to run code from this repo.
+```bash 
+$ git clone https://github.com/iterative/demo-bank-customer-churn
+$ cd demo-bank-customer-churn
+```
+
+Now let's install the requirements. 
+
+```bash
+$ pip install -r requirements.txt
+```
