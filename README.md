@@ -34,8 +34,8 @@ The models implemented are:
 ## Installation
 Python 3.8+ is required to run code from this repo.
 ```bash 
-$ git clone https://github.com/iterative/demo-bank-customer-churn
-$ cd demo-bank-customer-churn
+$ git clone https://github.com/manthan1912/Bank-Churn-Analysis-using-Machine-Learning.git
+$ cd Bank-Churn-Analysis-using-Machine-Learning
 ```
 
 Now let's install the requirements. 
